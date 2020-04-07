@@ -1,0 +1,6 @@
+name: flammap-tools
+dependencies:
+  - python>=3.6
+  - jupyter
+  - numpy
+  - pandas
